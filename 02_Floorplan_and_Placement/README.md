@@ -25,7 +25,7 @@ magic -T <path>/sky130A.tech lef read <merged.lef> def read <placement.def> &
 ## Screenshots to capture
 | File name | What it shows |
 |-----------|---------------|
-| `images/01_floorplan_def_header.png` | DEF die-area line and unit scale |
+| <img width="940" height="361" alt="image" src="https://github.com/user-attachments/assets/be7d6109-a3c6-47fb-8b70-f0db8cf7a11e" /> | Running Floorplan and Placement |
 | `images/02_floorplan_magic.png` | Floorplan view in Magic |
 | `images/03_placement_magic.png` | Placed cells in Magic |
 | `images/04_zoomed_cells.png` | Zoomed-in standard cells and tap cells |
