@@ -92,8 +92,6 @@ Every module folder contains `README.md`, `images/` (screenshots) and `logs/` (t
 MTech, Semiconductor Materials & Devices, IIT Hyderabad | ECE background
 Interested in semiconductor fabrication, device physics and the design-technology interface.
 
-Links: [GitHub](https://github.com/) · [LinkedIn](https://linkedin.com/) _(replace with your own)_
-
 ## Acknowledgements
 
 Course material and tool flow by VLSI System Design (VSD) and the OpenLane / OpenROAD / Magic / ngspice open-source communities. All notes, results and screenshots in this repository are from my own runs.
