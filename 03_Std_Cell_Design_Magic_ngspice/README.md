@@ -25,7 +25,8 @@ Inspect a CMOS inverter layout, extract parasitics, characterise it in ngspice a
 ## Screenshots to capture
 | File name | What it shows |
 |-----------|---------------|
-| `images/01_inverter_layout.png` | Inverter layout in Magic |
+| `<img width="307" height="461" alt="image" src="https://github.com/user-attachments/assets/bfc79ce8-78c2-4e2a-9bad-415c42c3097e" />
+` | Inverter layout in Magic |
 | `images/02_extraction_files.png` | Generated `.ext` / `.spice` files |
 | `images/03_ngspice_waveform.png` | Input and output waveforms |
 | `images/04_measurement_cursor.png` | Cursor readings used for delays |
