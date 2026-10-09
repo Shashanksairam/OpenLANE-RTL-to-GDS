@@ -69,7 +69,7 @@ Every module folder contains `README.md`, `images/` (screenshots) and `logs/` (t
 | 04 | [Timing & CTS](04_Timing_Analysis_and_CTS/) | Setup/hold analysis, clock skew, TritonCTS | ✅ Done |
 | 05 | [PDN, Routing & Signoff](05_PDN_Routing_and_Signoff/) | Power grid, routing, GDS, DRC/antenna checks | ✅ Done |
 
-> Update the status column as you finish each module (✅ Done / 🟡 In progress). Anything skipped or unfinished goes in the *Pending items* list below rather than being left out silently.
+
 
 ### Pending items
 - _None yet. List unfinished labs here with the reason._
@@ -111,13 +111,6 @@ Full numbers live in [`results/metrics_summary.md`](results/metrics_summary.md).
 2. Copy `design/` contents into `designs/picorv32a/` inside your OpenLane directory (see [`design/README.md`](design/README.md)).
 3. Launch the interactive flow and run the commands in [`flow/flow_commands.tcl`](flow/flow_commands.tcl) one stage at a time.
 4. Compare your numbers against `results/metrics_summary.md`.
-
-## Key Learnings
-
-_Write 5-8 bullets in your own words after finishing the labs. Examples of the level of detail to aim for:_
-- What changed in die area when utilisation went from X% to Y%, and why.
-- Why hold violations appear after CTS even when pre-CTS hold was clean.
-- What the flop ratio told you about the design.
 
 ## Author
 
