@@ -51,10 +51,6 @@ flowchart LR
 ├── 03_Std_Cell_Design_Magic_ngspice/  # inverter layout, extraction, SPICE characterisation, DRC
 ├── 04_Timing_Analysis_and_CTS/        # STA setup/hold, ideal vs propagated clock, CTS, skew
 ├── 05_PDN_Routing_and_Signoff/        # PDN, global/detailed routing, GDS, DRC, antenna
-├── design/                            # config + inputs needed to re-run the flow
-├── flow/                              # flow_commands.tcl : full command sequence
-├── results/                           # metrics_summary.md : numbers from every stage
-└── docs/                              # flow overview, STA cheat sheet, command reference, troubleshooting
 ```
 
 Every module folder contains `README.md`, `images/` (screenshots) and `logs/` (trimmed logs/reports).
