@@ -36,7 +36,6 @@ Reports to look at (paths under `runs/<tag>/`):
 | Total cells | |
 | Flip-flops | |
 | Flop ratio | |
-| Area (µm²) | |
 
 ## Observations
 - _What does the flop ratio suggest about this design?_
