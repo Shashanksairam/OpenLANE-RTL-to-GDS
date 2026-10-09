@@ -65,28 +65,6 @@ Every module folder contains `README.md`, `images/` (screenshots) and `logs/` (t
 | 04 | [Timing & CTS](04_Timing_Analysis_and_CTS/) | Setup/hold analysis, clock skew, TritonCTS | ✅ Done |
 | 05 | [PDN, Routing & Signoff](05_PDN_Routing_and_Signoff/) | Power grid, routing, GDS, DRC/antenna checks | ✅ Done |
 
-
-
-### Pending items
-- _None yet. List unfinished labs here with the reason._
-
-## Results Snapshot
-
-Full numbers live in [`results/metrics_summary.md`](results/metrics_summary.md). Copy the headline figures here once the run is complete:
-
-| Metric | Value |
-|--------|-------|
-| Design | picorv32a |
-| Clock period | _fill_ ns |
-| Die area | _fill_ µm² |
-| Core utilisation | _fill_ % |
-| Cell count (post-synth) | _fill_ |
-| Flop ratio | _fill_ |
-| Setup WNS / TNS (post-CTS) | _fill_ / _fill_ ns |
-| Hold WNS (post-CTS) | _fill_ ns |
-| Clock skew | _fill_ ns |
-| Routing DRC violations (final) | _fill_ |
-
 ## Tools & Environment
 
 | Category | Tool |
