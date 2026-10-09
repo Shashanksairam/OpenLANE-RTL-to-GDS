@@ -63,11 +63,11 @@ Every module folder contains `README.md`, `images/` (screenshots) and `logs/` (t
 
 | # | Module | Focus | Status |
 |---|--------|-------|--------|
-| 01 | [Setup & Synthesis](01_Setup_and_Synthesis/) | OpenLane setup, `config.tcl`, Yosys synthesis, cell stats | ⬜ Not started |
-| 02 | [Floorplan & Placement](02_Floorplan_and_Placement/) | Utilisation, aspect ratio, IO placement, global/detailed placement | ⬜ Not started |
-| 03 | [Std Cell Design](03_Std_Cell_Design_Magic_ngspice/) | Inverter layout, parasitic extraction, ngspice characterisation, DRC | ⬜ Not started |
-| 04 | [Timing & CTS](04_Timing_Analysis_and_CTS/) | Setup/hold analysis, clock skew, TritonCTS | ⬜ Not started |
-| 05 | [PDN, Routing & Signoff](05_PDN_Routing_and_Signoff/) | Power grid, routing, GDS, DRC/antenna checks | ⬜ Not started |
+| 01 | [Setup & Synthesis](01_Setup_and_Synthesis/) | OpenLane setup, `config.tcl`, Yosys synthesis, cell stats | ✅ Done |
+| 02 | [Floorplan & Placement](02_Floorplan_and_Placement/) | Utilisation, aspect ratio, IO placement, global/detailed placement | ✅ Done |
+| 03 | [Std Cell Design](03_Std_Cell_Design_Magic_ngspice/) | Inverter layout, parasitic extraction, ngspice characterisation, DRC | ✅ Done |
+| 04 | [Timing & CTS](04_Timing_Analysis_and_CTS/) | Setup/hold analysis, clock skew, TritonCTS | ✅ Done |
+| 05 | [PDN, Routing & Signoff](05_PDN_Routing_and_Signoff/) | Power grid, routing, GDS, DRC/antenna checks | ✅ Done |
 
 > Update the status column as you finish each module (✅ Done / 🟡 In progress). Anything skipped or unfinished goes in the *Pending items* list below rather than being left out silently.
 
