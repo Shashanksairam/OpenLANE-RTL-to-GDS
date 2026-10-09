@@ -25,22 +25,12 @@ Reports to look at (paths under `runs/<tag>/`):
 ## Screenshots to capture
 | File name | What it shows |
 |-----------|---------------|
-| `images/01_openlane_launch.png` | Interactive session started, package loaded |
-| `images/02_prep_done.png` | `prep` completed with your tag |
-| `images/03_synthesis_done.png` | Synthesis finished without errors |
-| `images/04_cell_stats.png` | Cell statistics report |
+| <img width="940" height="433" alt="image" src="https://github.com/user-attachments/assets/3929c29b-42c9-4c7e-9a77-707165bb7a02" /> | | Interactive session started, package loaded |
+| <img width="940" height="567" alt="image" src="https://github.com/user-attachments/assets/881b455f-23e6-4ec2-aefb-5f6b3be181a4" /> | | Cell statistics report |
 
 ## Results
 | Metric | Value |
 |--------|-------|
-| Total cells | |
-| Flip-flops | |
-| Flop ratio | |
-
-## Observations
-- _What does the flop ratio suggest about this design?_
-- _Which cell types dominate the count?_
-- _What changed (if anything) when you changed `SYNTH_STRATEGY` or `SYNTH_SIZING`?_
-
-## Issues faced
-See [`docs/troubleshooting.md`](../docs/troubleshooting.md).
+| Total cells |18508|
+| Flip-flops |1613|
+| Flop ratio |0.087 (8.7%)|
