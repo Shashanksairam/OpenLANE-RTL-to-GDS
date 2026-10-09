@@ -25,8 +25,8 @@ Reports to look at (paths under `runs/<tag>/`):
 ## Screenshots to capture
 | File name | What it shows |
 |-----------|---------------|
-| <img width="940" height="433" alt="image" src="https://github.com/user-attachments/assets/3929c29b-42c9-4c7e-9a77-707165bb7a02" /> | | Interactive session started, package loaded |
-| <img width="940" height="567" alt="image" src="https://github.com/user-attachments/assets/881b455f-23e6-4ec2-aefb-5f6b3be181a4" /> | | Cell statistics report |
+| <img width="940" height="433" alt="image" src="https://github.com/user-attachments/assets/3929c29b-42c9-4c7e-9a77-707165bb7a02" /> | Interactive session started, package loaded |
+| <img width="940" height="567" alt="image" src="https://github.com/user-attachments/assets/881b455f-23e6-4ec2-aefb-5f6b3be181a4" /> | Cell statistics report |
 
 ## Results
 | Metric | Value |
