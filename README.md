@@ -88,7 +88,7 @@ Every module folder contains `README.md`, `images/` (screenshots) and `logs/` (t
 
 ## Author
 
-**Shashank**
+**P. Sai Rama Shashank**
 MTech, Semiconductor Materials & Devices, IIT Hyderabad | ECE background
 Interested in semiconductor fabrication, device physics and the design-technology interface.
 
